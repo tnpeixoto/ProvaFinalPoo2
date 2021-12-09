@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="/Users/tiagopeixoto/Documents/workspace/AtividadeFinal/AtividadeFinal/FinalPOO2/src/lib/mariadb-java-client-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/Users/tiagopeixoto/Documents/workspace/AtividadeFinal/AtividadeFinal/FinalPOO2/src/lib/miglayout-swing-4.3-20121116.151626-3.jar"/>
+	<classpathentry kind="lib" path="/Users/tiagopeixoto/Documents/workspace/AtividadeFinal/AtividadeFinal/FinalPOO2/src/lib/miglayout-core-4.3-20121116.151612-3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
